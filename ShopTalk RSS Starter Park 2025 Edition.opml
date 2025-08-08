@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>
+            Subscriptions
+        </title>
+    </head>
+    <body>
+        <outline type="rss" text="https://chriscoyier.net/feed/" xmlUrl="https://chriscoyier.net/feed/"/>
+        <outline type="rss" text="https://daverupert.com/feed/" xmlUrl="https://daverupert.com/feed/"/>
+        <outline type="rss" text="https://www.mollywhite.net/feed.xml" xmlUrl="https://www.mollywhite.net/feed.xml"/>
+        <outline type="rss" text="https://adactio.com/journal/rss" xmlUrl="https://adactio.com/journal/rss"/>
+        <outline type="rss" text="https://adactio.com/links/rss" xmlUrl="https://adactio.com/links/rss"/>
+        <outline type="rss" text="https://blog.jim-nielsen.com/feed.xml" xmlUrl="https://blog.jim-nielsen.com/feed.xml"/>
+        <outline type="rss" text="https://rachsmith.com/rss.xml" xmlUrl="https://rachsmith.com/rss.xml"/>
+        <outline type="rss" text="https://maggieappleton.com/rss.xml" xmlUrl="https://maggieappleton.com/rss.xml"/>
+        <outline type="rss" text="https://nazhamid.com/feed.xml" xmlUrl="https://nazhamid.com/feed.xml"/>
+        <outline type="rss" text="https://kottke.org/rss.xml" xmlUrl="https://kottke.org/rss.xml"/>
+        <outline type="rss" text="https://livelaugh.blog/feed/" xmlUrl="https://livelaugh.blog/feed/"/>
+        <outline type="rss" text="https://cloudfour.com/thinks/feed/" xmlUrl="https://cloudfour.com/thinks/feed/"/>
+        <outline type="rss" text="https://web.dev/feed.xml" xmlUrl="https://web.dev/feed.xml"/>
+        <outline type="rss" text="https://webkit.org/blog/feed/" xmlUrl="https://webkit.org/blog/feed/"/>
+        <outline type="rss" text="https://blogs.windows.com/msedgedev/feed/" xmlUrl="https://blogs.windows.com/msedgedev/feed/"/>
+        <outline type="rss" text="https://lea.verou.me/feed.xml" xmlUrl="https://lea.verou.me/feed.xml"/>
+        <outline type="rss" text="https://frontendmasters.com/blog/rss.xml" xmlUrl="https://frontendmasters.com/blog/rss.xml"/>
+        <outline type="rss" text="https://ui.dev/rss.xml" xmlUrl="https://ui.dev/rss.xml"/>
+        <outline type="rss" text="https://ethanmarcotte.com/wrote/feed.xml" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml"/>
+        <outline type="rss" text="https://joshcollinsworth.com/api/rss.xml" xmlUrl="https://joshcollinsworth.com/api/rss.xml"/>
+        <outline type="rss" text="https://everythingchanges.us/feed/" xmlUrl="https://everythingchanges.us/feed/"/>
+        <outline type="rss" text="https://ericwbailey.website/feed/feed.xml" xmlUrl="https://ericwbailey.website/feed/feed.xml"/>
+    </body>
+</opml>
